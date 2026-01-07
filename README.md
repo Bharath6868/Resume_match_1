@@ -9,11 +9,6 @@ An AI-powered application that intelligently matches a candidate’s resume with
 > This project uses **Google Gemini Free API keys**, which have **strict rate and usage limits**.  
 > Due to these limitations, the live application **may not respond consistently** at all times.
 
-✅ **To evaluate my actual work, system design, and GenAI implementation, please review the complete source code on GitHub.**
-
-🔗 **GitHub Repository:**  
-https://github.com/anuragkumarsingh4440-netizen/resume_match
-
 ---
 
 ## 🎯 Problem This Project Solves
@@ -82,7 +77,6 @@ This tool bridges that gap using **Generative AI–driven resume intelligence**.
 
 - **Live Application:** https://resumematch1.streamlit.app/
 - **GitHub Source Code:**  https://github.com/Bharath6868/Resume_match_1
-
 
 ---
 
